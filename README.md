@@ -1,4 +1,4 @@
-# My Baby Stack: Gear Recommendations
+# My Baby Stack
 
 In tech-speak, a stack represents the tools that a person uses to do their job. When I was pregnant, I had lots of questions around what "stuff" I'd need, and since then, I've had a few friends ask for opinions on things I used, so I thought it would be easiest to put everything I used in one place and share my "baby stack". 
 
